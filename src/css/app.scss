@@ -1,0 +1,9 @@
+// app global css in SCSS form
+.bg-img {
+  background: linear-gradient(rgba(0, 0, 0, 0.31), rgba(0, 0, 0, 0.83)),
+    url(../assets/2160p-apostasy.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
