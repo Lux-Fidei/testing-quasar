@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3840" height="2160" viewBox="0 0 3840 2160">
+  <defs>
+    <clipPath id="clip-Artboard_1">
+      <rect width="3840" height="2160"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
+    <rect width="3840" height="2160" fill="#fff"/>
+    <ellipse id="Ellipse_49" data-name="Ellipse 49" cx="1145" cy="1000" rx="1145" ry="1000" transform="translate(-170 -636)" fill="#4ca3f9"/>
+    <rect id="Rectangle_57" data-name="Rectangle 57" width="4028" height="857" transform="translate(-144)" fill="#4ca3f9"/>
+    <rect id="Rectangle_58" data-name="Rectangle 58" width="1964" height="1526" transform="translate(1920)" fill="#4ca3f9"/>
+    <ellipse id="Ellipse_50" data-name="Ellipse 50" cx="1138" cy="1000" rx="1138" ry="1000" transform="translate(1691 531)" fill="#fff"/>
+  </g>
+</svg>
